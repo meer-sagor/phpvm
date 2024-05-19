@@ -13,10 +13,11 @@
 
 ## Installation
 
-You can install `phpvm` using the one-liner command below:
+- **You can install `phpvm` using the one-liner command below:**
 
-```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/meer-sagor/phpvm/install_phpvm.sh)"
+    ```bash
+    bash -c "$(curl -fsSL https://raw.githubusercontent.com/meer-sagor/phpvm/master/install_phpvm.sh)"
+    ```
 
 ## Usage
 
